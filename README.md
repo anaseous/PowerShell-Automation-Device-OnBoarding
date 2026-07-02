@@ -6,7 +6,7 @@
 ![Batch](https://img.shields.io/badge/Batch-4D4D4D?logo=windows-terminal&logoColor=white)
 ![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen.svg)
 
-> **One-click `.bat` script that self-elevates to admin, downloads, and silently installs the latest versions of essential Windows apps — plus activates Windows.**
+> **One-click `.bat` script that downloads, and silently installs the latest versions of essential Windows apps — plus activates Windows.**
 
 No more clicking "Next" a hundred times on a fresh Windows install. Just run once, walk away, come back to a fully-configured machine.
 
