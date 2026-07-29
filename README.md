@@ -43,7 +43,7 @@ No more clicking "Next" a hundred times on a fresh Windows install. Just run onc
 
 ```bash
 # 1. Clone or download this repo
-git clone https://github.com/<your-username>/windows-auto-installer.git
+git clone https://github.com/<anaseous>/windows-auto-installer.git
 
 # 2. Double-click the batch file
 install-latest-apps.bat
@@ -111,7 +111,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 **Anas Ali Omar Abdalla**
 EUC Engineer — ADREC
 
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@anaseous](https://github.com/anaseous)
 
 ---
 
