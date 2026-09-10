@@ -49,7 +49,7 @@ git clone https://github.com/anaseous/windows-auto-installer.git
 install-latest-apps.bat
 ```
 
-That's it. UAC will pop up — click **Yes**, and the script does the rest.
+In the UAC pop up — click **Yes**, and the script does the rest.
 
 ---
 
